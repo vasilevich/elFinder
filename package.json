@@ -1,13 +1,14 @@
 {
   "name": "elFinder",
-  "description": "File manager for web",
-  "main": "Jakefile.js",
+  "description": "File manager for web minimized from cdnjs",
+  "version": "2.1.48",
+  "main": "js/elfinder.min.js",
   "scripts": {
     "build": "mkdir -p ./build && jake -C ./build elfinder"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Studio-42/elFinder.git"
+    "url": "https://github.com/vasilevich/elFinder.git"
   },
   "keywords": [
     "file",
