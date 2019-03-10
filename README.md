@@ -1,6 +1,8 @@
 elFinder
 ========
-
+**NOTE: this fork is just made for convinience so I can do npm/yarn install giturl and get the entire elfinder.
+**I merely took all the files from cdnjs.com related to this library and uploaded with a package.json to keep it minimum for my use.
+**PLEASE USE THE REAL ELFINDER REPOSITORY!  I take no credit in this work, all credit goes to the creators of elfinder and the contributors.
 **WARNING: IF YOU HAVE OLDER (IN PARTICULAR 2.1.47 OR EARLIER) VERSIONS OF ELFINDER ON PUBLIC SERVERS, IT MAY CAUSE SERIOUS DAMAGE TO YOUR SERVER AND VISITED USER. YOU SHOULD UPDATE TO THE LATEST VERSION OR REMOVE IT FROM THE SERVER.**
 
 [![elFinder file manager for the Web](https://studio-42.github.io/elFinder/images/elFinderScr.png "elFinder file manager for the Web")](https://studio-42.github.io/elFinder/)
