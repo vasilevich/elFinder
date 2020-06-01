@@ -1,7 +1,7 @@
 {
   "name": "elFinder",
   "description": "File manager for web minimized from cdnjs",
-  "version": "2.1.48",
+  "version": "2.1.56",
   "main": "js/elfinder.min.js",
   "scripts": {
     "build": "mkdir -p ./build && jake -C ./build elfinder"
